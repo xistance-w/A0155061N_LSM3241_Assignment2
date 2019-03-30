@@ -1,0 +1,22 @@
+PASS	Basic Statistics	A0155061N_1.fq
+PASS	Per base sequence quality	A0155061N_1.fq
+PASS	Per sequence quality scores	A0155061N_1.fq
+PASS	Per base sequence content	A0155061N_1.fq
+PASS	Per sequence GC content	A0155061N_1.fq
+PASS	Per base N content	A0155061N_1.fq
+PASS	Sequence Length Distribution	A0155061N_1.fq
+PASS	Sequence Duplication Levels	A0155061N_1.fq
+PASS	Overrepresented sequences	A0155061N_1.fq
+PASS	Adapter Content	A0155061N_1.fq
+WARN	Kmer Content	A0155061N_1.fq
+PASS	Basic Statistics	A0155061N_2.fq
+PASS	Per base sequence quality	A0155061N_2.fq
+PASS	Per sequence quality scores	A0155061N_2.fq
+PASS	Per base sequence content	A0155061N_2.fq
+PASS	Per sequence GC content	A0155061N_2.fq
+PASS	Per base N content	A0155061N_2.fq
+PASS	Sequence Length Distribution	A0155061N_2.fq
+PASS	Sequence Duplication Levels	A0155061N_2.fq
+PASS	Overrepresented sequences	A0155061N_2.fq
+PASS	Adapter Content	A0155061N_2.fq
+PASS	Kmer Content	A0155061N_2.fq
